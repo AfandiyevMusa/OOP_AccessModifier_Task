@@ -42,9 +42,9 @@ namespace OOP_AccessModifier_Task
             //hello1.name;
 
             //Task_7
-            Group group = new Group();
-            group.Name = "hello";
-            Console.WriteLine(group.Name);
+            //Group group = new Group();
+            //group.Name = "hello";
+            //Console.WriteLine(group.Name);
             
         }
     }
