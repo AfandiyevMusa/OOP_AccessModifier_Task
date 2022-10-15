@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wjya8TIhnP/bRAZXhDN7tAey1x/bo0neydR4SQQQOZJpbHnn1fI8QQTp89Kw9tKmeJGiAO82xVuI9tAJefQ1NA==",
+  "success": true,
+  "projectFilePath": "/Users/afandiyevmusa/Projects/OOP_AccessModifier_Task/OOP_AccessModifier_Task.csproj",
+  "expectedPackageFiles": [
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

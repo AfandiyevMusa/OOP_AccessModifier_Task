@@ -1,0 +1,10 @@
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/obj/Debug/netcoreapp3.1/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/OOP_AccessModifier_Task/Domain/obj/Debug/netcoreapp3.1/Domain.pdb

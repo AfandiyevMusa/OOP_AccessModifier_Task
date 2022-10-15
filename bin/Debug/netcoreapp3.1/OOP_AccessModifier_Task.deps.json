@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP_AccessModifier_Task/1.0.0": {
+        "runtime": {
+          "OOP_AccessModifier_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_AccessModifier_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
